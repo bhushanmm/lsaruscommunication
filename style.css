@@ -24,11 +24,10 @@ a {
     color: rgb(90, 90, 199);
 }
 
-/*#position{
-    position: sticky;
-    top: 0px;
+
+#position{
     background-color: white;
-}*/
+}
 #button {
     border: 1px solid rgb(9, 161, 192);
     color: rgb(9, 161, 192);
@@ -104,7 +103,14 @@ a :hover p{
 /*Services Section End*/
 
 /* Contact Section Start  */
-.form-control{
-    background-color: rgb(203, 232, 242);
-}
+
 /* Contact Section End  */
+
+#btn-outline:hover{
+    background-color:rgb(9, 138, 181);
+    color: white; 
+}
+#linkedin{
+    background-color:rgb(9, 138, 181);
+    color: white; 
+}
