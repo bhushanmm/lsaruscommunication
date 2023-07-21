@@ -1,0 +1,110 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/*Header Section Start*/
+#header {
+    background-color: rgb(9, 161, 192);
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+}
+
+/*Header Section End*/
+
+/*Menu Section Start*/
+#menu a {
+    font-size: x-large;
+    color: rgb(90, 90, 199);
+}
+
+/*#position{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}*/
+#button {
+    border: 1px solid rgb(9, 161, 192);
+    color: rgb(9, 161, 192);
+    ;
+}
+
+/*a :hover{
+    display: block;
+    background-color: rgb(9, 161, 192);
+}
+a :hover p{
+    color: white;
+}*/
+/*Menu Section End*/
+
+/*Body Section Start*/
+#content {
+    background-color: rgb(17, 17, 17);
+    color: rgb(9, 161, 192);
+}
+
+#h2 {
+    color: rgb(9, 161, 192);
+}
+
+/*Body Section End*/
+
+/*Blog Section Start*/
+#blog{
+    background-color:  rgb(9, 161, 192);
+}
+#bloglink{
+    display: inline-block;
+}
+/*Blog Section End*/
+
+/*About Section Start*/
+#about{
+    
+    color: rgb(9, 161, 192);
+}
+/*About Section End*/
+
+/*marquee start*/
+#marquee{
+    color: rgb(9, 138, 181);
+}
+/*marquee end*/
+
+/* button start*/
+#button{
+    background-color:rgb(9, 138, 181); 
+}
+/* button end*/
+
+/*footer start*/
+.footer{
+    margin-right: 5px;
+    padding-right: 5px;
+}
+.sociallink{
+    color: rgb(9, 138, 181);
+}
+.footerlink{
+    color: rgb(9, 138, 181);
+}
+/*footer end*/
+
+/*Services Section Start*/
+#abc{
+    color: rgb(9, 138, 181);
+}
+/*Services Section End*/
+
+/* Contact Section Start  */
+.form-control{
+    background-color: rgb(154, 196, 210);
+}
+/* Contact Section End  */
