@@ -114,3 +114,8 @@ a :hover p{
     background-color:rgb(9, 138, 181);
     color: white; 
 }
+
+#youtube{
+    width: 535px;
+    height: 315px;
+}
