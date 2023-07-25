@@ -25,9 +25,10 @@ a {
 }
 
 
-#position{
+#position {
     background-color: white;
 }
+
 #button {
     border: 1px solid rgb(9, 161, 192);
     color: rgb(9, 161, 192);
@@ -56,66 +57,76 @@ a :hover p{
 /*Body Section End*/
 
 /*Blog Section Start*/
-#blog{
-    background-color:  rgb(9, 161, 192);
+#blog {
+    background-color: rgb(9, 161, 192);
 }
-#bloglink{
+
+#bloglink {
     display: inline-block;
 }
+
 /*Blog Section End*/
 
 /*About Section Start*/
-#about{
-    
+#about {
+
     color: rgb(9, 161, 192);
 }
+
 /*About Section End*/
 
 /*marquee start*/
-#marquee{
+#marquee {
     color: rgb(9, 138, 181);
 }
+
 /*marquee end*/
 
 /* button start*/
-#button{
-    background-color:rgb(9, 138, 181); 
+#button {
+    background-color: rgb(9, 138, 181);
 }
+
 /* button end*/
 
 /*footer start*/
-.footer{
+.footer {
     margin-right: 5px;
     padding-right: 5px;
 }
-.sociallink{
+
+.sociallink {
     color: rgb(9, 138, 181);
 }
-.footerlink{
+
+.footerlink {
     color: rgb(9, 138, 181);
 }
+
 /*footer end*/
 
 /*Services Section Start*/
-#abc{
+#abc {
     color: rgb(9, 138, 181);
 }
+
 /*Services Section End*/
 
 /* Contact Section Start  */
 
 /* Contact Section End  */
 
-#btn-outline:hover{
-    background-color:rgb(9, 138, 181);
-    color: white; 
-}
-#linkedin{
-    background-color:rgb(9, 138, 181);
-    color: white; 
+#btn-outline:hover {
+    background-color: rgb(9, 138, 181);
+    color: white;
 }
 
-#youtube{
+#linkedin {
+    background-color: rgb(9, 138, 181);
+    color: white;
+}
+
+#youtube {
     width: 535px;
     height: 315px;
 }
